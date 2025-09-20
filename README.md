@@ -14,19 +14,11 @@ Here is can test with Jetson Orin Nano. SN65HVD230 used in this test with Jetson
 
 ## 2. Enjoy your device
 
-<img width="592" height="592" alt="0" src="https://github.com/user-attachments/assets/c8d6fd39-bd9f-40c4-b3e2-2171e4c753fc" />
-
-(Set LED OFF)
-
-<img width="661" height="635" alt="10" src="https://github.com/user-attachments/assets/82c562d0-5afd-4324-833d-0f9b3e93aaae" />
+<img width="777" height="686" alt="led low" src="https://github.com/user-attachments/assets/6cce9d59-b563-47c2-beb3-ec065ac9a736" />
 
 (Set LED LOW)
 
-<img width="664" height="623" alt="50" src="https://github.com/user-attachments/assets/2ec40b92-7f5e-4a1b-a093-3af5cbc4071b" />
-
-(Set LED MID)
-
-<img width="713" height="633" alt="100" src="https://github.com/user-attachments/assets/0bc24559-b522-43bc-92d4-f19c93e7f488" />
+<img width="795" height="659" alt="led high" src="https://github.com/user-attachments/assets/60887174-a6b3-469a-8725-dbdbece29b8f" />
 
 (Set LED HIGH)
 
