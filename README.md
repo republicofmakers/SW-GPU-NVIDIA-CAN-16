@@ -8,7 +8,7 @@ Here is can test with Jetson Orin Nano. SN65HVD230 used in this test with Jetson
 
 (Can Receiver)
 
-<img width="673" height="509" alt="transmitter" src="https://github.com/user-attachments/assets/8e4bb91c-fbe0-478e-b046-5510e4454ff6" />
+<img width="645" height="507" alt="transmitter" src="https://github.com/user-attachments/assets/f2230ad5-6bc0-4202-8802-2526cc47adc1" />
 
 (Can Transmitter)
 
